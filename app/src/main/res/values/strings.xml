@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Women Safety</string>
+    <string name="siren">Siren</string>
+    <string name="hlp">HELP ME!!</string>
+    <string name="safe">"I'm SAFE."</string>
+    <string name="cntcts">ADD EMERGENCY CONTACTS..</string>
+    <string name="entr_c">"Enter the Contact :"</string>
+    <string name="save">"SAVE"</string>
+    <string name="del">"DELETE ALL"</string>
+    <string name="saved">"Your Saved Contacts.."</string>
+</resources>
